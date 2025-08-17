@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "SInsa-po",
-	subtitle: "Demo Site",
+	subtitle: "记录/分享",
 	lang: "zh_CN", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -70,14 +70,14 @@ export const profileConfig: ProfileConfig = {
 		// 	url: "https://store.steampowered.com",
 		// },
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github",
-			url: "https://github.com/saicaca/fuwari",
-		},
-		{
 			name: "Bilibili",
 			icon: "fa6-brands:bilibili",
 			url: "https://space.bilibili.com/8567742",
+		},
+		{
+			name: "GitHub",
+			icon: "fa6-brands:github",
+			url: "https://github.com/Sinsax",
 		},
 	],
 };
