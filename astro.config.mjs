@@ -27,7 +27,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
 	site: "https://sinsax.github.io",
-	base: "/",
+	base: "/sinsax.github.io",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
