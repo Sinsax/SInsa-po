@@ -85,24 +85,6 @@ site:"https://username.github.io"
 base:"/newpost"
 ```
 
-
-## 新建post
-
-```bash 
-pnpm new-post 名称
-```
-
-若需要插入图片，需新建文件夹并改名为index.md
-```
--newpost.md
-```
-``` 
--newpost
---index.md
---picture.jpg
-```
-
-
 # github action 设置
 ## 关闭github已有action
 :::important
