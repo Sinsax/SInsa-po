@@ -161,8 +161,6 @@ jobs:
         uses: actions/deploy-pages@v4
 ```
 
-# 自定义域名设置
-
 ---
 参考来源：
 [Fuwari](https://github.com/saicaca/fuwari),
