@@ -1,6 +1,6 @@
 ---
 title: Fuwari安装
-published: 2025-08-17
+published: 2025-08-18
 description: '使用github page部署'
 image: ''
 tags: [指南，Fuwari]
