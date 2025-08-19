@@ -1,5 +1,5 @@
 ---
-title: Fuwari安装
+title: Fuwari安装&使用
 published: 2025-08-18
 description: '使用github page部署'
 image: ''
