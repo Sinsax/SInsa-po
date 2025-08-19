@@ -143,7 +143,48 @@ jobs:
         uses: actions/deploy-pages@v4
 ```
 
+# 使用
+## 本地运行并参考效果
+```bash
+#安装依赖项
+pnpm install
+
+#运行
+pnpm run dev
+pnpm dev
+
+```
+
+
+## 新建post
+
+```bash 
+pnpm new-post 名称
+```
+
+若需要插入图片，新建文件夹并改名为index.md
+
+>* `newpost.md`
+
+>- newpost
+>   - `index.md`
+>   - `picture.jpg`
+
+或
+>- newpost
+>   - `index.md`
+>   - image
+>       - `picture.jpg`
+
+
+## 图片追加
+```ts
+//md文件内添加
+![](image/chibiysyk.gif)
+```
+
 ---
 参考来源：
 [Fuwari](https://github.com/saicaca/fuwari),
 [Astro doc](https://docs.astro.build/en/getting-started/)
+[markdown语法](https://markdown.com.cn/basic-syntax/)
