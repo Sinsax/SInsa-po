@@ -186,5 +186,5 @@ pnpm new-post 名称
 ---
 参考来源：
 [Fuwari](https://github.com/saicaca/fuwari),
-[Astro doc](https://docs.astro.build/en/getting-started/)
-[markdown语法](https://markdown.com.cn/basic-syntax/)
+[Astro doc](https://docs.astro.build/en/getting-started/),
+[Markdown 基本语法](https://markdown.com.cn/basic-syntax/)
